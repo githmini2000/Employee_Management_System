@@ -1,0 +1,59 @@
+.dashboard table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.dashboard table th,
+.dashboard table td {
+    border: 3px solid grey;
+    padding: 8px;
+    text-align: left;
+}
+
+.edit-form {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 50%;
+    background: #f9f9f9;
+}
+
+.edit-form input {
+    display: block;
+    width: 100%;
+    margin: 5px 0;
+    padding: 8px;
+}
+.btnChange{
+    background-color:  rgb(7, 123, 57);
+    color: white;
+    border-radius: 0.5rem;
+}
+.btnCancel{
+    background-color:  rgb(120, 111, 12);
+    color: white;
+    border-radius: 0.5rem;
+}
+.butnEdit{
+    background-color:  rgb(46, 109, 198);
+    color: white;
+    border-radius: 0.5rem;
+      
+}
+.butnDelete{
+    background-color:  rgb(250, 25, 25);
+    color: white;
+    border-radius: 0.5rem;
+      
+}
+.butnView{
+    background-color: rgb(232, 116, 21);
+    color: white;
+    border-radius: 0.5rem;
+}
+.btnClose{
+    background-color:rgb(120, 111, 12);
+    color: white;
+    border-radius: 0.5rem;
+}
