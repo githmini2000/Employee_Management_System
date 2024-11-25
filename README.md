@@ -27,11 +27,13 @@ The Employee Management System allows administrators to manage employees easily.
 
      + CRUD Operations: Allows the creation, reading, updating, and deletion of employee records.
      + RESTful API: Exposes endpoints for frontend-backend interaction.
-                    * GET /api/employees: Fetch all employees.
-                    * GET /api/employee/{id}: Fetch a specific employee by ID.
-                    * POST /api/employee: Add a new employee.
-                    * PATCH /api/employee/{id}: Update an existing employee.
-                    * DELETE /api/employee/{id}: Delete an employee.
+       
+           GET /api/employees: Fetch all employees.
+           GET /api/employee/{id}: Fetch a specific employee by ID.
+           POST /api/employee: Add a new employee.
+           PATCH /api/employee/{id}: Update an existing employee.
+           DELETE /api/employee/{id}: Delete an employee.
+       
      + MySQL Database: Employee data is stored and managed in a MySQL database.
 
 ## Technologies Used
