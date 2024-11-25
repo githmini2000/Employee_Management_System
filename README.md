@@ -2,13 +2,13 @@
 This Employee Management System is a web-based application built using React for the frontend and Spring Boot for the backend, with MySQL as the database. It allows you to manage employees by performing CRUD operations like Create, Read, Update, and Delete.
 
 ## Table of Contents
-1. [Overview](#Overview)
+1. [Overview](#overview)
 
-2. [Features](#Features)
+2. [Features](#features)
 
-3. [Technologies Used](#TechnologiesUsed)
+3. [Technologies Used](#technologies-used)
    
-4. [User Interface](#UserInterface)
+4. [User Interface](#user-interface)
 
 
 
