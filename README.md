@@ -2,13 +2,13 @@
 This Employee Management System is a web-based application built using React for the frontend and Spring Boot for the backend, with MySQL as the database. It allows you to manage employees by performing CRUD operations like Create, Read, Update, and Delete.
 
 ## Table of Contents
-1. [Overview](https://www.google.com "Overview")
+1. [Overview](#Overview)
 
-2. [Features](https://www.google.com "Features")
+2. [Features](#Features)
 
-3. [Technologies Used](https://www.google.com "Technologies Used")
+3. [Technologies Used](#TechnologiesUsed)
    
-4. [User Interface](https://www.google.com "User Interface")
+4. [User Interface](#UserInterface)
 
 
 
@@ -18,34 +18,34 @@ The Employee Management System allows administrators to manage employees easily.
 ## Features
 - Frontend Features:
   
-    + Employee List: Displays all employees in a table format with options to view, edit, or delete records.
-    + Add New Employee: A form to add a new employee to the system with fields like name, email, phone, and department.
-    + Edit Employee: Allows editing existing employee records.
-    + View Employee Details: View detailed information for each employee.
+     + Employee List: Displays all employees in a table format with options to view, edit, or delete records.
+     + Add New Employee: A form to add a new employee to the system with fields like name, email, phone, and department.
+     + Edit Employee: Allows editing existing employee records.
+     + View Employee Details: View detailed information for each employee.
     
 - Backend Features
 
-    + CRUD Operations: Allows the creation, reading, updating, and deletion of employee records.
-    + RESTful API: Exposes endpoints for frontend-backend interaction.
-        * GET /api/employees: Fetch all employees.
-        * GET /api/employee/{id}: Fetch a specific employee by ID.
-        * POST /api/employee: Add a new employee.
-        * PATCH /api/employee/{id}: Update an existing employee.
-        * DELETE /api/employee/{id}: Delete an employee.
-    + MySQL Database: Employee data is stored and managed in a MySQL database.
+     + CRUD Operations: Allows the creation, reading, updating, and deletion of employee records.
+     + RESTful API: Exposes endpoints for frontend-backend interaction.
+                    * GET /api/employees: Fetch all employees.
+                    * GET /api/employee/{id}: Fetch a specific employee by ID.
+                    * POST /api/employee: Add a new employee.
+                    * PATCH /api/employee/{id}: Update an existing employee.
+                    * DELETE /api/employee/{id}: Delete an employee.
+     + MySQL Database: Employee data is stored and managed in a MySQL database.
 
 ## Technologies Used
 - Frontend Technologies
 
-    + React.js: A JavaScript library for building user interfaces.
-    + React Router: For routing between pages.
-    + CSS: Custom styles for components and design.
+     + React.js: A JavaScript library for building user interfaces.
+     + React Router: For routing between pages.
+     + CSS: Custom styles for components and design.
     
 - Backend Technologies
 
-    + Spring Boot: Framework used to build the RESTful API for managing employees.
-    + MySQL: Database for storing employee records.
-    + Postman: Used to test the backend API endpoints during development.
+     + Spring Boot: Framework used to build the RESTful API for managing employees.
+     + MySQL: Database for storing employee records.
+     + Postman: Used to test the backend API endpoints during development.
 
 ## User Interface
 
