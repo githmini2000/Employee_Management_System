@@ -1,0 +1,21 @@
+.Navbar{
+    background-color: aqua;
+ }
+ .Navbar .Navbar.Brand{
+    color: white;
+ }
+
+ .Navbar .Navbar-link{
+    color: rgb(202, 6, 6);
+    text-decoration: none;
+    margin-right: 20px;
+
+ }
+
+ @media  (max-width:576px){
+ .navbar.navbar-link{
+    margin-right: 0;
+ }
+ }
+    
+ 
